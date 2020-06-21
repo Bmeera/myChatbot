@@ -9,7 +9,7 @@ import http.server
 import socketserver
 from google_search import chatbot_query
 
-#PORT = 8080
+PORT = https://goo-bot.herokuapp.com/
 DIRECTORY = 'public'
 
 class Handler(http.server.SimpleHTTPRequestHandler):
